@@ -24,7 +24,9 @@ const styles = StyleSheet.create({
     },
     container_TERTIARY:{
         color: 'black',
-        width: '40%',
+        borderRadius: 8,
+        padding: 6,
+        width: '65%'
     },
     text_TERTIARY:{
         color: 'gray',
